@@ -48,7 +48,7 @@ We can assume that the public transit system is made up of buses and subway/trai
      PUT /vehicle/:id
       request body: {vehicle: req.params.id, status: out of service}
 
-![City](./assets/TransitTrackerVectorArt.png)
+![City](./Assets/TransitTrackerVectorArt.png)
 
 ## INTERVIEWER TIPS
 
@@ -88,7 +88,7 @@ The Data Flow Diagram would be acceptable as a substitute to all the individual 
 
 ### Data Flow Diagram
 
-![Data Flow](./assets/TransitTrackerDataFlow.png)
+![Data Flow](./Assets/TransitTrackerDataFlow.png)
 
 ## Individual User Stories (Use these if they candidate is really stuck)
 
