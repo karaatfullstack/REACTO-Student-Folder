@@ -86,10 +86,6 @@ If your interviewee is stuck, start by discussing the nouns and verbs listed bel
 
 The Data Flow Diagram would be acceptable as a substitute to all the individual user stories as it is a combination of all the user stories in one functioning system.
 
-### Data Flow Diagram
-
-![Data Flow](./assets/TransitTrackerDataFlow.png)
-
 ## Individual User Stories (Use these if they candidate is really stuck)
 
 If the candidate is really stuck, then the individual stories would be best suited to help them along.
