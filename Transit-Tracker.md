@@ -153,6 +153,7 @@ Use the nouns and verbs to help the candidate with this. The important parts of 
 
 - [Sample Slides](https://docs.google.com/presentation/d/1847iTV1x67_qs5goM6GD4Gtm4soLLGwBUvJdMhe0zsA/edit?usp=sharing)
 - [Figma File of Diagrams](https://www.figma.com/file/AxVOyjdrX7R2ajULQBVBFP/TransitTracker-REACTO?node-id=0%3A1)
+- [Inheritance vs. Composition](https://javascript.plainenglish.io/inheritance-is-a-vs-composition-has-a-in-javascript-98fb96dfa0e6)
 
 ### Resources to make Diagrams
 
